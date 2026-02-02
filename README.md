@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+## 👨🏿‍💻 Im a Fourth Year MIS Major
+## 📚 Currently this Github for for class purposes
+## Pronouns He/him 👦🏿
+## 🤔 I’m looking for help with anything Github related
